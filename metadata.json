@@ -1,0 +1,6 @@
+{
+  "name": "VectorForge",
+  "description": "Precision raster-to-vector tracing studio converting images into clean SVG vector paths with sub-pixel boundary refinement, parametric shapes, and instant quality comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
